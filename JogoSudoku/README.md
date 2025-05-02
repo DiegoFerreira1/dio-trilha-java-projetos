@@ -7,6 +7,7 @@ Projeto desenvolvido como parte do bootcamp da Digital Innovation One (DIO), foc
 - Interface gráfica com botões para preenchimento
 - Verificação de erros
 - Destaque de blocos 3x3
+### Possiveis melhorias
 - [ ] Detecção de vitória
 - [ ] Temporizador
 - [ ] Dica inteligente (Hint)
